@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{8D4145B6-2110-4955-8CF1-30BCC59D2B0A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="poks41/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="poks41/Controllers/HomeController.cs" Line="68" Column="9" />
+      <File FileName="poks41/Models/ProjectClass.cs" />
+      <File FileName="poks41/Views/Home/Index.cshtml" Line="8" Column="30" />
+      <File FileName="poks41/Models/ViewCntClass.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="poks41" expanded="True">
+            <Node name="poks41" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.poks41 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
